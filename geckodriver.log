@@ -1,0 +1,48 @@
+1655918825876	geckodriver	INFO	Listening on 127.0.0.1:51663
+1655918828919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shrey\\AppData\\Local\\Temp\\rust_mozprofilemjQG2u"
+1655918829415	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51664
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shrey\\AppData\\Local\\Temp\\rust_mozprofilemjQG2u\\search.json.mozlz4", (void 0)))
+1655918831453	Marionette	INFO	Listening on port 51687
+DevTools listening on ws://localhost:51664/devtools/browser/34c4ba73-be02-4e17-b7e9-b8490d0c65f9
+Read port: 51687
+1655918833081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1655918834027	Marionette	INFO	Stopped listening on port 51687
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655920435906	geckodriver	INFO	Listening on 127.0.0.1:51918
+1655920438949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shrey\\AppData\\Local\\Temp\\rust_mozprofileiEbF3i"
+1655920439533	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51919
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shrey\\AppData\\Local\\Temp\\rust_mozprofileiEbF3i\\search.json.mozlz4", (void 0)))
+1655920442271	Marionette	INFO	Listening on port 51942
+DevTools listening on ws://localhost:51919/devtools/browser/9b4c8619-9e0e-4640-999a-b97272f47fb8
+Read port: 51942
+1655920442396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1655920443935	Marionette	INFO	Stopped listening on port 51942
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1655920827295	geckodriver	INFO	Listening on 127.0.0.1:51977
+1655920830328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shrey\\AppData\\Local\\Temp\\rust_mozprofiledAT0xq"
+1655920830824	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51978
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shrey\\AppData\\Local\\Temp\\rust_mozprofiledAT0xq\\search.json.mozlz4", (void 0)))
+1655920833536	Marionette	INFO	Listening on port 52000
+DevTools listening on ws://localhost:51978/devtools/browser/56794e74-c7bd-4c97-b3a0-007607a84ee6
+Read port: 52000
+1655920833646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.saucedemo.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1655920834478	Marionette	INFO	Stopped listening on port 52000
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
